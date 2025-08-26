@@ -30,3 +30,22 @@ C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame
 C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGay\obj\Debug\net9.0\cardGay.pdb
 C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGay\obj\Debug\net9.0\cardGay.genruntimeconfig.cache
 C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGay\obj\Debug\net9.0\ref\cardGay.dll
+D:\repos\5_semester\SWD\cardGame\cardGay\bin\Debug\net9.0\cardGay.exe
+D:\repos\5_semester\SWD\cardGame\cardGay\bin\Debug\net9.0\cardGay.deps.json
+D:\repos\5_semester\SWD\cardGame\cardGay\bin\Debug\net9.0\cardGay.runtimeconfig.json
+D:\repos\5_semester\SWD\cardGame\cardGay\bin\Debug\net9.0\cardGay.dll
+D:\repos\5_semester\SWD\cardGame\cardGay\bin\Debug\net9.0\cardGay.pdb
+D:\repos\5_semester\SWD\cardGame\cardGay\bin\Debug\net9.0\cardGameLibrary.dll
+D:\repos\5_semester\SWD\cardGame\cardGay\bin\Debug\net9.0\cardGameLibrary.pdb
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.csproj.AssemblyReference.cache
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.AssemblyInfoInputs.cache
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.AssemblyInfo.cs
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.csproj.CoreCompileInputs.cache
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.sourcelink.json
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.csproj.Up2Date
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.dll
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\refint\cardGay.dll
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.pdb
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.genruntimeconfig.cache
+D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\ref\cardGay.dll

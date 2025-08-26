@@ -2,7 +2,7 @@
 
 public class Player
 {
-    void test()
+    public static void test()
     {
         Console.WriteLine("test");
     }

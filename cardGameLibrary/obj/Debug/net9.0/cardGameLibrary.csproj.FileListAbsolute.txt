@@ -9,3 +9,15 @@ C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame
 C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\refint\cardGameLibrary.dll
 C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.pdb
 C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\ref\cardGameLibrary.dll
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\bin\Debug\net9.0\cardGameLibrary.deps.json
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\bin\Debug\net9.0\cardGameLibrary.dll
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\bin\Debug\net9.0\cardGameLibrary.pdb
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.AssemblyInfoInputs.cache
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.AssemblyInfo.cs
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.csproj.CoreCompileInputs.cache
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.sourcelink.json
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.dll
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\refint\cardGameLibrary.dll
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.pdb
+D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\ref\cardGameLibrary.dll
