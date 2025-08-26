@@ -1,0 +1,11 @@
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\bin\Debug\net9.0\cardGameLibrary.deps.json
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\bin\Debug\net9.0\cardGameLibrary.dll
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\bin\Debug\net9.0\cardGameLibrary.pdb
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.AssemblyInfoInputs.cache
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.AssemblyInfo.cs
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.csproj.CoreCompileInputs.cache
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.dll
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\refint\cardGameLibrary.dll
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.pdb
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\ref\cardGameLibrary.dll
