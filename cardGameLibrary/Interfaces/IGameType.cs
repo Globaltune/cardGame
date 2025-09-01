@@ -3,9 +3,11 @@ namespace cardGame.GameType
 {
     public interface IGameType
     {
-        public  AnnounceWinner()
+        /*
+        public AnnounceWinner()
         {
-            
+
         }
+        */
     }
 }

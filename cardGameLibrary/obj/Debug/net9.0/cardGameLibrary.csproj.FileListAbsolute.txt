@@ -21,3 +21,4 @@ D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrar
 D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\refint\cardGameLibrary.dll
 D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.pdb
 D:\repos\5_semester\SWD\cardGame\cardGameLibrary\obj\Debug\net9.0\ref\cardGameLibrary.dll
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGameLibrary\obj\Debug\net9.0\cardGameLibrary.sourcelink.json

@@ -49,3 +49,4 @@ D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\refint\cardGay.dll
 D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.pdb
 D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\cardGay.genruntimeconfig.cache
 D:\repos\5_semester\SWD\cardGame\cardGay\obj\Debug\net9.0\ref\cardGay.dll
+C:\universitet\visual studio code folder\codes 5 semester\SWD\lektion_1\cardGame\cardGay\obj\Debug\net9.0\cardGay.sourcelink.json
