@@ -27,24 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\416ma\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\416ma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\universitet\\visual studio code folder\\codes 5 semester\\SWD\\lektion_1\\cardGame\\cardGay\\cardGay.csproj",
+      "projectUniqueName": "D:\\repos\\5_semester\\SWD\\cardGame\\cardGay\\cardGay.csproj",
       "projectName": "cardGay",
-      "projectPath": "C:\\universitet\\visual studio code folder\\codes 5 semester\\SWD\\lektion_1\\cardGame\\cardGay\\cardGay.csproj",
+      "projectPath": "D:\\repos\\5_semester\\SWD\\cardGame\\cardGay\\cardGay.csproj",
       "packagesPath": "C:\\Users\\416ma\\.nuget\\packages\\",
-      "outputPath": "C:\\universitet\\visual studio code folder\\codes 5 semester\\SWD\\lektion_1\\cardGame\\cardGay\\obj\\",
+      "outputPath": "D:\\repos\\5_semester\\SWD\\cardGame\\cardGay\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\416ma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        "C:\\Users\\416ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -57,8 +52,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\universitet\\visual studio code folder\\codes 5 semester\\SWD\\lektion_1\\cardGame\\cardGameLibrary\\cardGameLibrary.csproj": {
-              "projectPath": "C:\\universitet\\visual studio code folder\\codes 5 semester\\SWD\\lektion_1\\cardGame\\cardGameLibrary\\cardGameLibrary.csproj"
+            "D:\\repos\\5_semester\\SWD\\cardGame\\cardGameLibrary\\cardGameLibrary.csproj": {
+              "projectPath": "D:\\repos\\5_semester\\SWD\\cardGame\\cardGameLibrary\\cardGameLibrary.csproj"
             }
           }
         }
@@ -73,7 +68,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -94,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
