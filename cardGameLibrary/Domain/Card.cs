@@ -1,4 +1,4 @@
-namespace Domain.Cards;
+namespace Domain.CardClass;
 
     public enum Suit{
         Red = 1,
@@ -7,13 +7,13 @@ namespace Domain.Cards;
         Yellow = 4, 
     }
 
-public class Card
+public class Cards
 {
     // attributes
     public Suit Suit { get; } // read-only properties
     public int Number { get; }
 
-    public Card(Suit suit, int number) // constructor 
+    public Cards(Suit suit, int number) // constructor 
     {
         Suit = suit;
         Number = number;
@@ -27,7 +27,7 @@ public class Card
 
     public int GetValue()
     {
-        return (int)Suit * Number;
+        return (int)Suit * Number; // casting Suit enum to int
     }
 
 

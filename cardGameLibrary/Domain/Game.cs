@@ -1,11 +1,11 @@
 
 using System.Collections.Specialized;
 
-namespace Domain.Game;
+namespace Domain.GameClass;
 
 public class Game
 {
-    private readonly List<Player> Players;
+    private List<PlayerName> Players;
 
     public void Start()
     {

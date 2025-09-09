@@ -1,30 +1,31 @@
 using System.ComponentModel;
-using Domain.Cards;
-using Domain.Game;
+using Domain.CardClass;
+using Domain.GameClass;
+using Domain.PlayerClass;
 
-namespace Domain.Deck
+namespace Domain.DeckClass
 {
 
     public class Deck
     {
-        private readonly List<Card> deck; // Card is the class from Card.cs
-        private List<Player> player; // Player is the class from Player.cs
+        private readonly List<Cards> deck; // Card is the class from Card.cs
         
 
-        public Deck(List<Card> Deck) // constructor
+        public Deck() // constructor
         {
-            this.deck = Deck;
+            deck = new List<Cards>();
 
             foreach (Suit suit in Enum.GetValues(typeof(Suit))) // putting suit with values into list deck
             {
                 for (int number = 1; number <= 8; number++)
                 {
-                    Deck.Add(new Card(suit, number)); // aadding them togeher here. 
+                    deck.Add(new Cards(suit, number)); // aadding them togeher here. 
                 }
             }
         }
 
 
+        // bruger fishers-yates shuffle algorithm
         public void Shuffle()
         {
             var range = new Random(); // starting random generator
@@ -34,19 +35,20 @@ namespace Domain.Deck
                 int j = range.Next(i + 1);
                 var temp = deck[i];
                 deck[i] = deck[j];
-                deck[j] = temp; 
+                deck[j] = temp;
             }
 
         }
 
 
-        public void DealtTo(List<Player> Player, int numberOfCards)
+        public void DealtTo(Player player, int numberOfCards)
         {
-            this.player = Player;
 
             for (int i = 0; i < numberOfCards; i++)
             {
-                Player.Add();
+                var card = deck[0]; // take the top card
+                deck.RemoveAt(0); // remove the top card from the deck
+                player.AcceptCard(card); // give the card to the player
 
             }
             
